@@ -1,0 +1,10 @@
+# Analysis + Quarto Python/Jupyter execution
+pandas>=3
+numpy>=2
+matplotlib>=3
+pyyaml>=6
+nbformat>=5
+nbclient>=0.10
+jupyter_client>=8
+jupyter_core>=5
+ipykernel>=7

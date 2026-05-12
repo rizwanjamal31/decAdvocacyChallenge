@@ -1,0 +1,2 @@
+# Use project venv so Quarto's Jupyter runner finds PyYAML, nbformat, etc.
+QUARTO_PYTHON=.venv/Scripts/python.exe
